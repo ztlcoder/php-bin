@@ -17,6 +17,7 @@
     "icu-static-win",
     "onig",
     "sqlite",
+    "libsodium",
     "xz",
     "libzip"
 ]
